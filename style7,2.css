@@ -1,0 +1,49 @@
+/* styles.css */
+body {
+    margin: 0;
+    font-family:;
+}
+
+.stats-section {
+    background: url('yyy.jpg') center/cover no-repeat;
+    position: relative;
+    text-align: center;
+    color: white;
+    padding: 80px 10%;
+}
+
+.overlay {
+    background: rgba(255, 204, 0, 0.9); /* Yellow transparent overlay */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 60px 0;
+    border-radius: 10px;
+}
+
+.stat-box {
+    text-align: center;
+}
+
+.stat-box i {
+    font-size: 50px;
+    margin-bottom: 15px;
+}
+
+h2 {
+    font-size: 28px;
+    margin: 10px 0;
+    font-weight: bold;
+}
+
+p {
+    font-size: 18px;
+}
+
+/* Responsive Design */
+@media (max-width: 1000px) {
+    .overlay {
+        flex-direction: column;
+        gap: 30px;
+    }
+}

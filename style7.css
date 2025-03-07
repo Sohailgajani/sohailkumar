@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.bg{ 
+    background-image: url(yyy.jpg);
+    width: 500%;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: 200% 200%;
+
+
+}
+h1{
+    color: black;
+    font-size: 10pxpx;
+    text-align: center;
+    padding-top: 10px;
+   padding-right:px;
+}
+.p1{
+    color: rgb(137, 16, 16);
+    font-size: 30px;
+    text-align: center;
+}

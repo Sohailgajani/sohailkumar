@@ -1,0 +1,31 @@
+.{
+    margin: 0px;
+    padding: 0px;
+}
+.bg{
+    background-color: #c09f33;
+    color: rgb(167, 24, 24);
+    font-size: 20px;
+}
+.btn{
+    background-color: #00bfcb;
+    color: white;
+    border-style: none;
+    padding: 5px 10px;
+}
+.btn1{
+    background-color: transparent;
+    color: rgb(10, 122, 139);
+    border: 2px solid rgb(163, 24, 24);
+    padding: 5px 10px;
+}
+.text{
+    padding-top: 70px;
+    padding-left: 120px;
+
+}
+.i img{
+ padding-left: 590px;
+ width: 300px;
+ margin-top: -300px;
+}

@@ -1,0 +1,48 @@
+/* styles.css */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image: url(yyy.jpg) no-repeat center center/cover;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    background-color: gold;
+    text-align: center;
+}
+
+.stat {
+    color: black;
+    padding: 20px;
+}
+
+.stat img {
+    width: 50px; /* Adjust the icon size */
+}
+
+h2 {
+    margin: 50px 50px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 18px;
+    font-weight: bold;
+}
+.i img{
+    padding-left: 30px;
+    width: 150px;
+    margin-top: -100px;
+   }
+   .m2{
+       padding-left: 250px;
+       margin-top: -200pxpx;
+   }
+   .m3{
+       padding-left: 200px;
+       margin-top: -10px;
+   }
